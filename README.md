@@ -4,8 +4,8 @@ Este projeto tem como principal objetivo facilitar o contato dos alunos com a bi
 
   **Objetivos:**
   
- ** 1.** Deixar todo o acervo da biblioteca visível
+    1. Deixar todo o acervo da biblioteca visível
 
- ** 2.** Criar cadastro para alunos e servidores
+    2. Criar cadastro para alunos e servidores
 
- ** 3.** Mostrar os empréstimos de livros para cada pessoa cadastrada
+    3. Mostrar os empréstimos de livros para cada pessoa cadastrada
