@@ -3,20 +3,19 @@
 
 class Cliente {
 
-	public $codigo;
+	public $matricula;
 	public $nome;
-	public $cpf;
 	
-	public function __construct($nome = null, $cpf = null, $codigo = null){
+	
+	public function __construct($nome = null, $matricula = null){
 		$this->nome = $nome;
-		$this->cpf = $cpf;
 		$this->codigo = $codigo;
 	}
 		
 	public function pegarDados(){
 		
 		$this->nome = $_GET["nome"];
-		$this->cpf = $_GET["cpf"];
+		$this->matricula = $_GET["matricula"];
 	}
 	
 	public function validarDados(){
